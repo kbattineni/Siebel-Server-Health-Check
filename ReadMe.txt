@@ -1,3 +1,6 @@
+Siebel-Server-Health-Check
+Siebel Server Health Check is a Utility Program to monitor the Status of Siebel Servers and components. This Utility can be configured as per the requirements of Health check Data
+
 This Utility is developed by Hitesh Dhanwani for the monitoring of Siebel Servers and components.
 This utility is also capable of spooling SQL results relevant to know the Health of Servers. The SQL queries can be modified accordingly.
 
