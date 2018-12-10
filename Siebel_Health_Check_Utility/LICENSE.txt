@@ -1,0 +1,16 @@
+/*************************************************************************
+ * 
+ *  2016, HITESH DHANWANI
+ *  All Rights Reserved.
+ * 
+ * NOTICE:  All information contained herein is, and remains a 
+ * property of Hitesh Dhanwani,The intellectual and technical 
+ * concepts contained herein are a proprietary of 'Hitesh Dhanwani'
+ * and are protected by copyright law of India. Dissemination of 
+ * this information or reproduction of this material is allowed 
+ * provided credits for this work is given to the author. Any damage 
+ * done because of this utility is sole responsibility of the user.
+ * 
+ * Date: 02/Feb/2016 
+ *
+ */
