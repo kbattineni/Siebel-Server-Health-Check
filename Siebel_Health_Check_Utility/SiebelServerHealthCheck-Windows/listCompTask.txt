@@ -1,0 +1,17 @@
+set footer false
+set header false
+set delimiter ,
+set verbose false
+spool on 
+spool listserver.txt
+list server
+spool off
+spool on 
+spool listcomp.txt
+list component
+spool off
+spool on 
+spool listtask.txt
+list task
+spool off
+Exit
