@@ -9,8 +9,8 @@
  $tablespace = "tablespace.txt"
  $temp = $htmlFilePath + "\" + $htmlFileName
 
- $EmailFrom = "dhanwanihitesh9@gmail.com"
- $EmailTo = "dhanwanihitesh9@gmail.com"
+ $EmailFrom = "kishore.battineni@gmail.com"
+ $EmailTo = "kishore.battineni@gmail.com"
  $EmailSubject = "Siebel Health Check Report"  
  $SMTPServer = "SMTP Server Address"
  $emailattachment = $temp
